@@ -5,6 +5,9 @@
   "repository": "https://github.com/luishrg/solid-node.git",
   "author": "Luis Humberto Rodrigues Gonçalves <luis.humberto@predict.info>",
   "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
   "devDependencies": {
     "husky": "^4.2.5",
     "jest": "^26.2.2",
