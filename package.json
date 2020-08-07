@@ -1,0 +1,8 @@
+{
+  "name": "solid-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/luishrg/solid-node.git",
+  "author": "Luis Humberto Rodrigues Gonçalves <luis.humberto@predict.info>",
+  "license": "MIT"
+}
