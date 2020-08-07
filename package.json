@@ -6,7 +6,8 @@
   "author": "Luis Humberto Rodrigues Gonçalves <luis.humberto@predict.info>",
   "license": "MIT",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test:staged": "jest"
   },
   "standard": {
     "env": [
