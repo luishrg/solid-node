@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/luishrg/solid-node.git",
   "author": "Luis Humberto Rodrigues Gonçalves <luis.humberto@predict.info>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "standard": "^14.3.4"
+  }
 }
