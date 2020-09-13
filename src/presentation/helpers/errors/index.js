@@ -1,10 +1,10 @@
-class MissingParamError extends Error {
+class InvalidParamError extends Error {
   constructor (paramName) {
-    super(`Informação faltando: ${paramName}`)
-    this.name = 'MissingParamError'
+    super(`Informação faltando ou inválida: ${paramName}`)
+    this.name = 'InvalidParamError'
   }
 }
 
 module.exports = {
-  MissingParamError
+  InvalidParamError
 }
