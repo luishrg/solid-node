@@ -15,6 +15,10 @@ class HttpResponse {
   static serverSuccess () {
     return { statusCode: 200 }
   }
+
+  static authenticated () {
+    return { statusCode: 401 }
+  }
 }
 
 module.exports = HttpResponse
